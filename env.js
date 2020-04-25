@@ -1,5 +1,4 @@
 window.settings = {
-  // 站点标题
   title: 'Go2Free',
   host: 'http://suo.im/6sr3Mc',
   theme: {
